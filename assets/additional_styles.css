@@ -81,3 +81,36 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+
+/* Griffin's Custom Styles */
+body {
+  background-color: rgb(251,251,251);
+}
+.navbar {
+  background-color: white;
+}
+.navbar a, .btn-link, .fa-dropbox {
+  color: rgb(0,126,229) !important;
+}
+.btn-block {
+  background-color: rgb(48,121,180) !important;
+}
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+h4 {
+  color: rgb(153,153,153);
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+p {
+  line-height: 175%;
+  font-size: 20px;
+  font-weight: 300;
+}
+footer li {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
+}
